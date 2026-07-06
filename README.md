@@ -141,3 +141,5 @@ Evaluation framework for non-deterministic LLM systems — labelled cases, plugg
 <div align="center">
   <sub><b>5cale</b> · design that scales — systems that ship · <a href="https://afnancodes.com">afnancodes.com</a></sub>
 </div>
+
+<!-- profile: smafnan -->
