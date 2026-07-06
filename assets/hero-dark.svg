@@ -1,0 +1,48 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Afnan Sadiq — Founder of 5cale, AI Engineer">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#7C3AED" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#22D3EE" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- top mono kicker -->
+  <text x="450" y="52" text-anchor="middle"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
+        font-size="14" letter-spacing="3" fill="#8B94A8">~/germany · builder of scalable things</text>
+
+  <!-- name -->
+  <text x="450" y="122" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="58" font-weight="800" letter-spacing="1" fill="url(#grad)">Afnan Sadiq</text>
+
+  <!-- animated gradient rule -->
+  <rect x="360" y="140" width="180" height="3" rx="1.5" fill="url(#grad)">
+    <animate attributeName="width" values="120;180;120" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="390;360;390" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- cycling roles -->
+  <text x="450" y="185" text-anchor="middle" opacity="0"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="500" fill="#C7CEDB">
+    Founder @ 5cale — design that scales
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="185" text-anchor="middle" opacity="0"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="500" fill="#C7CEDB">
+    AI Engineer — RAG · Agents · Evals · MLOps
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="185" text-anchor="middle" opacity="0"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="500" fill="#C7CEDB">
+    From backprop in NumPy to pipelines in production
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+  </text>
+</svg>
