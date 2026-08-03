@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- ── Hero: custom animated SVG, adapts to GitHub dark/light theme ─────────── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Afnan Sadiq — Founder @ 5cale · AI Engineer" width="100%">
-</picture>
+<!-- ── Banner ──────────────────────────────────────────────────────────────── -->
+<img src="assets/banner.svg" alt="Afnan — AI engineer · full-stack developer" width="100%">
 
 <p>
   <a href="https://afnancodes.com"><img src="https://img.shields.io/badge/afnancodes.com-0F172A?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Website"></a>&nbsp;
