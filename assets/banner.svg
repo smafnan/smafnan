@@ -1,24 +1,22 @@
-<svg width="1060" height="340" viewBox="0 0 530 170" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Afnan — AI engineer and full-stack developer</title>
-  <desc>A wide dark banner with the name Afnan, the roles AI engineer and full-stack developer, and the line building cool stuff.</desc>
-
-  <defs>
-    <pattern id="dgb" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#1D2531"/>
-    </pattern>
-  </defs>
-
-  <rect x="0" y="0" width="530" height="170" fill="#0D1015"/>
-  <rect x="0" y="0" width="530" height="170" fill="url(#dgb)"/>
-
-  <circle cx="502" cy="26" r="92" fill="#E0A458" opacity="0.06"/>
-  <circle cx="502" cy="26" r="62" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.3"/>
-  <circle cx="502" cy="26" r="96" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.16"/>
-
-  <path d="M56 34 L56 150" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.45"/>
-
-  <text x="78" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E0A458" letter-spacing="2">// afnancodes</text>
-  <text x="78" y="100" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F1EA" letter-spacing="-2">Afnan</text>
-  <text x="78" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#E0A458">AI engineer · full-stack developer</text>
-  <text x="78" y="146" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12" fill="#A7B0BE">Building cool stuff. Learning something every day of the flight.</text>
+<svg width="1600" height="400" viewBox="0 0 680 170" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Afnan</title>
+<desc>Afnan, AI engineer and full-stack developer. Building cool stuff.</desc>
+<defs>
+<pattern id="dgg" width="22" height="22" patternUnits="userSpaceOnUse">
+<circle cx="1.5" cy="1.5" r="1" fill="#1D2531"/>
+</pattern>
+</defs>
+<rect x="0" y="0" width="680" height="170" fill="#0D1015"/>
+<rect x="0" y="0" width="680" height="170" fill="url(#dgg)"/>
+<circle cx="672" cy="164" r="86" fill="#E0A458" opacity="0.05"/>
+<circle cx="672" cy="164" r="60" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.22"/>
+<path d="M46 34 L46 150" stroke="#E0A458" stroke-width="0.5" opacity="0.45"/>
+<text x="68" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E0A458" letter-spacing="2">// afnancodes</text>
+<text x="66" y="100" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F1EA" letter-spacing="-2">Afnan</text>
+<text x="68" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#E0A458">AI engineer &#183; full-stack developer</text>
+<text x="68" y="146" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#A7B0BE">Building cool stuff. Learning something every day of the flight.</text>
+<path d="M470 44 L470 116" stroke="#242C39" stroke-width="0.5"/>
+<text x="634" y="60" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A8698">python &#183; pytorch &#183; nlp</text>
+<text x="634" y="84" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A8698">llms &#183; rag &#183; agents</text>
+<text x="634" y="108" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A8698">react &#183; typescript &#183; aws</text>
 </svg>
