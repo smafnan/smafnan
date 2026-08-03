@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── Banner ──────────────────────────────────────────────────────────────── -->
-<img src="assets/banner.svg" alt="Afnan — AI engineer · full-stack developer" width="100%">
+<img src="assets/banner.png" alt="Afnan — AI engineer · full-stack developer" width="100%">
 
 <p>
   <a href="https://afnancodes.com"><img src="https://img.shields.io/badge/afnancodes.com-0F172A?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Website"></a>&nbsp;
