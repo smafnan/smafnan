@@ -1,4 +1,4 @@
-<svg width="1360" height="340" viewBox="0 0 680 170" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="1060" height="340" viewBox="0 0 530 170" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>Afnan — AI engineer and full-stack developer</title>
   <desc>A wide dark banner with the name Afnan, the roles AI engineer and full-stack developer, and the line building cool stuff.</desc>
 
@@ -8,17 +8,17 @@
     </pattern>
   </defs>
 
-  <rect x="0" y="0" width="680" height="170" fill="#0D1015"/>
-  <rect x="0" y="0" width="680" height="170" fill="url(#dgb)"/>
+  <rect x="0" y="0" width="530" height="170" fill="#0D1015"/>
+  <rect x="0" y="0" width="530" height="170" fill="url(#dgb)"/>
 
-  <circle cx="652" cy="26" r="92" fill="#E0A458" opacity="0.06"/>
-  <circle cx="652" cy="26" r="62" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.3"/>
-  <circle cx="652" cy="26" r="96" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.16"/>
+  <circle cx="502" cy="26" r="92" fill="#E0A458" opacity="0.06"/>
+  <circle cx="502" cy="26" r="62" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="502" cy="26" r="96" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.16"/>
 
-  <path d="M200 34 L200 150" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.45"/>
+  <path d="M56 34 L56 150" fill="none" stroke="#E0A458" stroke-width="0.5" opacity="0.45"/>
 
-  <text x="222" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E0A458" letter-spacing="2">// afnancodes</text>
-  <text x="222" y="100" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F1EA" letter-spacing="-2">Afnan</text>
-  <text x="222" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#E0A458">AI engineer · full-stack developer</text>
-  <text x="222" y="146" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12" fill="#A7B0BE">Building cool stuff. Learning something every day of the flight.</text>
+  <text x="78" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E0A458" letter-spacing="2">// afnancodes</text>
+  <text x="78" y="100" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F1EA" letter-spacing="-2">Afnan</text>
+  <text x="78" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#E0A458">AI engineer · full-stack developer</text>
+  <text x="78" y="146" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12" fill="#A7B0BE">Building cool stuff. Learning something every day of the flight.</text>
 </svg>
